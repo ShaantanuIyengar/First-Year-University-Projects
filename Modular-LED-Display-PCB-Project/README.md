@@ -1,4 +1,4 @@
-# Modular LED Displau PCB Project
+# Modular LED Display PCB Project
 
 A custom PCB designed to control LEDs using the Arduino Nano ESP32. LEDs are switched on via digital pin outputs according to pre-set conditions. Project stages included schematic design, PCB layout, stackup definition, and documentation of DRC and BOM.
 
