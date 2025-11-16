@@ -17,7 +17,7 @@ A custom PCB designed to control LEDs using the Arduino Nano ESP32. LEDs are swi
 
 - `PCB-design/` — PCB schematic and layout files
 - `Documentation/` — Images and files: stackup pictures, design rule check (DRC) results, Bill of Materials
-- `Technical_Report` — Technical report
+- `Technical_report` — Technical report
 
 ## Usage
 
