@@ -18,7 +18,7 @@ This project explores optimal wind turbine configurations by experimentally test
 
 - `code/`: Contains MATLAB analysis scripts
 - `graphs/`: Output graphs and data visualisations (.png/.jpg)
-- `notes&data/`: Project management notes, experimental data
+- `notes%data/`: Project management notes, experimental data
 
 ## How to Run
 
