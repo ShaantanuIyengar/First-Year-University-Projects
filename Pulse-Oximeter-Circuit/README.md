@@ -17,6 +17,9 @@ This repo includes code and designs for both single and dual wavelength pulse ox
 - `Circuit-Diagrams/` — Circuit diagrams/images.
 - `Datasheet_Oximeter/` — Dual Wavelength Pulse Oximeter Circuit datasheet.
 - `Images_Videos/` — Project photos and videos.
+- `Project_Management/` — Project management documents.
+
+
 
 ## Quick Start
 
