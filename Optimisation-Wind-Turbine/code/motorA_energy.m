@@ -1,0 +1,13 @@
+scope15.time_s_(2:end) = scope15.time_s_(2:end) + 5;
+R = 47000;
+scope15.Current = scope15.voltage_V_ / R;
+scope15.Power = scope15.voltage_V_ .* scope15.Current;
+time = scope15.time_s_;
+power = scope15.Power;
+validData = ~isnan(time) & ~isnan(power);
+time = time(validData);
+power = power(validData);
+total_cumenergy = cumtrapz(time, power);
+scope15.Energy = total_cumenergy;
+total_energy = trapz(time, power);
+disp(['Total energy = ' num2str(total_energy) ' Joules']);
