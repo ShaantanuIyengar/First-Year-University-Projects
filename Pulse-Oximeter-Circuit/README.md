@@ -15,7 +15,7 @@ This repo includes code and designs for both single and dual wavelength pulse ox
 
 - `Arduino_code_Oximeter/` — Arduino code for dual wavelength circuit.
 - `Circuit-Diagrams/` — Circuit diagrams/images.
-- `Datasheets/` — E.g., MAX30100 sensor datasheet.
+- `Datasheet_Oximeter/` — E.g., MAX30100 sensor datasheet.
 - `images_videos/` — Project photos and videos.
 
 ## Quick Start
